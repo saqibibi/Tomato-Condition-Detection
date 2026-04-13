@@ -39,8 +39,8 @@ The model is trained on image data and can predict the condition of a tomato fro
 
 ## 📂 Dataset
 
+Download and extract dataset.zip before running the project.
 The dataset is included inside the `dataset/` folder.
-
 It contains categorized images of tomato leaves and tomatoes based on:
 
 * Disease classes
